@@ -27,7 +27,7 @@ Follow these steps to run the project in your local environment.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/goktani/auto-eda-notebook-gen.git](https://github.com/goktani/auto-eda-notebook-gen.git)
+git clone https://github.com/goktani/auto-eda-notebook-gen.git
 cd auto-eda-notebook-gen
 ```
 
